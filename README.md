@@ -1,2 +1,2 @@
 # Algorithms
-common algorithms written implemented in Java
+common algorithms written implemented in **Java**
